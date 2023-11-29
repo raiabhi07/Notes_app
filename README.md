@@ -1,1 +1,1 @@
-# MERN-Training-Projects
+# MERN-Project
